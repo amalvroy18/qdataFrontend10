@@ -1,0 +1,1 @@
+export const serverUrl = 'https://qdatabackend24.onrender.com'
